@@ -1,0 +1,1 @@
+Voici nos exercices Ruby effectues lors du projet pair programming
