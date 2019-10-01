@@ -5,4 +5,4 @@ numberchoice.times do
     puts "Salut, ca farte ?"
   
   end
-  
+  #ok
